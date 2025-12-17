@@ -1,0 +1,7 @@
+Order_id,Date,Product,Category,Sales,Profit
+101,01-01-2024,laptop,electronics,60000,8000
+102,03-01-2024,mobile,electronics,20000,3000
+103,05-01-2024,chair,furniture,5000,800
+104,02-02-2024,table,furniture,7000,1000
+105,10-02-2024,headphones,electronics,3000,500
+106,01-03-2024,laptop,electronics,62000,9000
